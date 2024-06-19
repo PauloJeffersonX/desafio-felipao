@@ -3,8 +3,6 @@ let rankDoHeroi;
 
 const nomeHeroi = "Seu nome aqui";
 
-
-
 switch (true) {
   case xpHeroi >= 0 && xpHeroi <= 1000:
     rankDoHeroi = "Ferro";
