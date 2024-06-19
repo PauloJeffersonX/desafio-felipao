@@ -41,4 +41,4 @@ switch (true) {
     break;
 }
 
-console.log("O Herói " + nomeHeroi + " está no rank " + rankDoHeroi);
+console.log("O Herói de nome " + nomeHeroi + " está no rank " + rankDoHeroi);
