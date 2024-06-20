@@ -1,5 +1,5 @@
 let xpHeroi = -100;
-let rankDoHeroi;
+let rankDoHeroi ;
 
 const nomeHeroi = "Seu nome aqui";
 
